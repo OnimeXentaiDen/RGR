@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "title": "Breaking News",
+    "content": "This is a breaking news story.",
+    "author": "Admin",
+    "createdAt": "2024-12-23T00:00:00Z"
+  }
+]
